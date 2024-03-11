@@ -5,7 +5,7 @@ contract Owned {
     address public owner;
 
     constructor (address _owner) {
-        require(_owner !== address(0), "Cannot set zero address as owner");
+        require(_owner != address(0), "Cannot set zero address as owner");
         owner = _owner;
     }
 
