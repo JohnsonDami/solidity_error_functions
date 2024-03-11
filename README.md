@@ -1,4 +1,4 @@
-**# Access-Controlled Ownership Contract**
+# Access-Controlled Ownership Contract**
 
 ## Overview
 
